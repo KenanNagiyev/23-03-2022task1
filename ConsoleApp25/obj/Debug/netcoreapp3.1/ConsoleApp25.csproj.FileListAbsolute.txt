@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.exe
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.deps.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.dev.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfo.cs
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\hp\Desktop\ders.cs\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.genruntimeconfig.cache
